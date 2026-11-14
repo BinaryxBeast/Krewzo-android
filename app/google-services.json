@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479112643689",
+    "project_id": "krewzo",
+    "storage_bucket": "krewzo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479112643689:android:74fe6395d4bb40aca68ef8",
+        "android_client_info": {
+          "package_name": "com.binaryxbeast.krewzo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1I90OQ-TKEcEJdg41bRzf-BPspIgns0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
